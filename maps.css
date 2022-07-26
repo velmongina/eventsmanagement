@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+h1{
+    margin:5px;
+    padding:10px;
+    color:chocolate;
+}
+iframe{
+    width:100%;
+    height:300px;  
+}
+table{    
+    margin:25px;
+    width:100%;    
+}
+td{
+    width:33%;
+}
+.social-media-icons a{
+	display:inline-block;
+	height:40px;
+    width:48px;
+    font-size:30px;
+	border-radius:50%;
+	color:blue;
+	transition:all 0.5s case;
+}
+.social-media-icons a:hover{
+	color:#24262b;
+	background-color:cornflowerblue;
+}
+h6{
+    font-size: larger;
+    font-weight: bolder;
+}
+p{
+    font-size:larger;
+    font-weight: 100;
+}
